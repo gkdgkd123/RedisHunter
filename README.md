@@ -36,7 +36,7 @@ It supports two modes:
 ## 📦 Installation
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/RedisHunter.git](https://github.com/YOUR_USERNAME/RedisHunter.git)
+git clone https://github.com/gkdgkd123/RedisHunter.git
 cd RedisHunter
 pip install -r requirements.txt
 
