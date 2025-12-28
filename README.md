@@ -111,6 +111,3 @@ This tool is for **educational purposes and authorized security testing only**. 
 
 [MIT License](https://www.google.com/search?q=LICENSE)
 
-```
-
-```
